@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jayvardhan-reddy-azure-certification-dp-200-badge.png)](https://mseep.ai/app/jayvardhan-reddy-azure-certification-dp-200)
+
 # Azure-Certification-DP-200
 
 Various modules and percentage involved in DP-200.
